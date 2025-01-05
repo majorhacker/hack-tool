@@ -18,7 +18,7 @@ A collection of hacking tools for network reconnaissance, penetration testing, a
 
 ```bash
 Step 1:
-git clone https://github.com/hack-tool.git
+git clone https://github.com/majorhacker/hack-tool.git
 cd hack-tool
 
 Step 2: Run the Setup Script
@@ -36,17 +36,6 @@ chmod +x hacking_tool.sh
 ```
 Usage
 After running the script, select the option by entering the number corresponding to the task you'd like to perform.
-
-Nmap Scan: Scan a target.
-Directory Brute Force: Brute-force directories on a web server.
-Browse a Website: Open a website in the terminal.
-Get Public IP: Fetch your public IP.
-Check IP Info: Lookup IP info.
-Short URL Info: Resolve a short URL.
-System Monitor: View system resources.
-Check Internet Speed: Test internet speed.
-Random Password: Generate a password.
-Weather Info: Get current weather.
 
 License
 For educational purposes only. Ensure you have proper authorization before using this tool.
