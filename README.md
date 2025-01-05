@@ -16,25 +16,21 @@ A collection of hacking tools for network reconnaissance, penetration testing, a
 
 ## Installation
 
-### Step 1: Clone the Repository
-
 ```bash
-git clone https://github.com/yourusername/hacking-tool-suite.git
-cd hacking-tool-suite
+Step 1:
+git clone https://github.com/hack-tool.git
+cd hack-tool
+
 Step 2: Run the Setup Script
 Make the setup script executable and run it to install dependencies:
-
-bash
-Copy code
 chmod +x setup.sh
 ./setup.sh
+
 This will install the required packages and tools like Nmap, Gobuster, yt-dlp, and others.
 
 Step 3: Run the Tool
 After installation, make the main script executable and run it:
 
-bash
-Copy code
 chmod +x hacking_tool.sh
 ./hacking_tool.sh
 ```
